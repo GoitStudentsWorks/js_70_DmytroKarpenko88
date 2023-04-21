@@ -2,10 +2,10 @@
   "name": "team-project-js",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://DmytroKarpenko88.github.io/team-project-js",
+  "homepage": "https://GoitStudentsWorks.github.io/js_70_DmytroKarpenko88",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-js/"
+    "build": "parcel build src/*.html --public-url /js_70_DmytroKarpenko88/"
   },
   "repository": {
     "type": "git",
